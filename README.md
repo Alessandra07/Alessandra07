@@ -6,7 +6,7 @@
 - 📘 Bootcamp Java Web Generation</br>
 - 📘 Desenvolve Boticario </br>
 - 🔭 Desenvolvedora Full Stack </br>
-- 🌱 Estudando java</br>
+- 🌱 Estudando java,HTML5 e css</br>
 - 👩🏽 ela/dela</br>
 - ⚡ Apaixonada por tecnologia 💻</br>
  <hr>
