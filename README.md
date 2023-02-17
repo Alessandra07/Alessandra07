@@ -4,6 +4,7 @@
 - 🌎 Brasileira 🇧🇷</br>
 - 👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas</br>
 - 📘 Bootcamp Java Web Generation</br>
+- 📘 Desenvolve Boticario </br>
 - 🔭 Desenvolvedora Full Stack </br>
 - 🌱 Estudando java</br>
 - 👩🏽 ela/dela</br>
